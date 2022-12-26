@@ -1,0 +1,45 @@
+h1 {
+  font-family: 'Monofett', cursive;
+  font-size: 45px;
+  margin-bottom: 0;
+}
+
+p {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.pageContainer {
+  margin: 0 auto;
+  text-align: center;
+  width: 750px;
+}
+
+.gameGrid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 600px;
+  width: 100%;
+}
+
+.gameGrid img {
+  border-radius: 10%;
+  height: 140px;
+  margin: 5px;
+  width: 140px;
+}
+
+@media screen and (max-width: 768px) {
+  .pageContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  .gameGrid img {
+    height: 110px;
+    margin: px;
+    width: 110px;
+  }
+}
