@@ -1,5 +1,5 @@
 # Memory Game
-Assignment 3 at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer). A simple pixel art memory game using vanilla Javascript, with excercises implementing code to the Document Object Model (DOM).
+Assignment 3 at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer) of HTML/CSS/JS module. A simple pixel art memory game using vanilla Javascript, with excercises implementing code to the Document Object Model (DOM).
 
 Visit site [here](https://jennynguyenoberg.github.io/memory-game/).
 
